@@ -1,0 +1,842 @@
+[
+  {
+    "year": 1,
+    "module": "Principles of programming",
+    "type": "Agile Skill",
+    "lo_code": "LO1.1.1.1",
+    "lo_text": "Explain the importance of delivering value early and often, iterating and continuously improving workflows where necessary."
+  },
+  {
+    "year": 1,
+    "module": "Principles of programming",
+    "type": "Business Context",
+    "lo_code": "LO1.1.1.2",
+    "lo_text": "Explain and apply in an individual context basic business behaviour, ethics and courtesies, demonstrating timeliness and focus when faced with distractions and the ability to complete tasks to a deadline with high quality."
+  },
+  {
+    "year": 1,
+    "module": "Principles of programming",
+    "type": "Metaskills",
+    "lo_code": "LO1.1.1.3",
+    "lo_text": "Discuss how the team demonstrated the following capabilities: good communication, identifying different abilities and potential, and showing respect for individuals."
+  },
+  {
+    "year": 1,
+    "module": "Principles of programming",
+    "type": "Security Content",
+    "lo_code": "LO1.1.1.4",
+    "lo_text": "Describe the nature of risk to information and information systems and define what cyber security is, and explain its importance when developing software solutions and mitigating risk."
+  },
+  {
+    "year": 1,
+    "module": "Principles of programming",
+    "type": "Technical Content",
+    "lo_code": "LO1.1.1.5",
+    "lo_text": "Write programs in a variety of languages that can use common features for control flow and data structures."
+  },
+  {
+    "year": 1,
+    "module": "Applied algorithms and data structures",
+    "type": "Agile Skill",
+    "lo_code": "LO1.1.2.1",
+    "lo_text": "Identify and manage deviations from the planned schedule of a project."
+  },
+  {
+    "year": 1,
+    "module": "Applied algorithms and data structures",
+    "type": "Business Context",
+    "lo_code": "LO1.1.2.2",
+    "lo_text": "Explain the software development process as aligned to industry practice."
+  },
+  {
+    "year": 1,
+    "module": "Applied algorithms and data structures",
+    "type": "Metaskills",
+    "lo_code": "LO1.1.2.3",
+    "lo_text": "Produce and receive feedback, constructively applying appropriate techniques and incorporate it into his/her own development and life-long learning."
+  },
+  {
+    "year": 1,
+    "module": "Applied algorithms and data structures",
+    "type": "Security Content",
+    "lo_code": "LO1.1.2.4",
+    "lo_text": "Explain why cyber security matters - the importance to business and society, which includes the inclusion and significance of cyber security to critical and safety critical systems (including healthcare systems, critical national infrastructure, industrial plant automation, autonomous vehicles, mass transportation, internet of things)."
+  },
+  {
+    "year": 1,
+    "module": "Applied algorithms and data structures",
+    "type": "Technical Content",
+    "lo_code": "LO1.1.2.5",
+    "lo_text": "Describe algorithms an abstract level, and compare the tradeoff between memory and performance."
+  },
+  {
+    "year": 1,
+    "module": "Creativity through patterns",
+    "type": "Agile Skill",
+    "lo_code": "LO1.1.3.1",
+    "lo_text": "Discuss the importance of regular project reviews, and engage with the project review process."
+  },
+  {
+    "year": 1,
+    "module": "Creativity through patterns",
+    "type": "Business Context",
+    "lo_code": "LO1.1.3.2",
+    "lo_text": "Explain what a threat model is in a business context, which includes documenting what information is at risk, analysing the type and level of risk realised; and the impact of the risk being realised."
+  },
+  {
+    "year": 1,
+    "module": "Creativity through patterns",
+    "type": "Metaskills",
+    "lo_code": "LO1.1.3.3",
+    "lo_text": "Examine the purpose, audience and the outcomes to be achieved when communicating with stakeholders, and decide which method of communication to use and the level of formality required."
+  },
+  {
+    "year": 1,
+    "module": "Creativity through patterns",
+    "type": "Security Content",
+    "lo_code": "LO1.1.3.4",
+    "lo_text": "Identify and apply industry standard static and dynamic code analysis frameworks (e.g FindBugs, Checkstyle, etc)."
+  },
+  {
+    "year": 1,
+    "module": "Creativity through patterns",
+    "type": "Technical Content",
+    "lo_code": "LO1.1.3.5",
+    "lo_text": "Use pseudocode or programming language to implement, test and debug algorithms for manipulating data in a variety of computational settings."
+  },
+  {
+    "year": 1,
+    "module": "Continuous development",
+    "type": "Agile Skill",
+    "lo_code": "LO1.2.1.1",
+    "lo_text": "Describe the software development lifecycles and processes."
+  },
+  {
+    "year": 1,
+    "module": "Continuous development",
+    "type": "Business Context",
+    "lo_code": "LO1.2.1.2",
+    "lo_text": "Explain that information is an organisational asset that has utility and a value which may be relative depending on the perspective taken, and examine it's attributes relating to confidentiality, possession, integrity, authenticity and availability."
+  },
+  {
+    "year": 1,
+    "module": "Continuous development",
+    "type": "Metaskills",
+    "lo_code": "LO1.2.1.3",
+    "lo_text": "Produce, implement and review a personal development plan."
+  },
+  {
+    "year": 1,
+    "module": "Continuous development",
+    "type": "Security Content",
+    "lo_code": "LO1.2.1.4",
+    "lo_text": "Compare and contrast the different methods and techniques used to assure the quality of a software development processes and deliverables."
+  },
+  {
+    "year": 1,
+    "module": "Continuous development",
+    "type": "Technical Content",
+    "lo_code": "LO1.2.1.5",
+    "lo_text": "Select, with justification, and apply an appropriate set of tools to support the development of a range of software products of medium size."
+  },
+  {
+    "year": 1,
+    "module": "Databases",
+    "type": "Agile Skill",
+    "lo_code": "LO1.3.1.1",
+    "lo_text": "Examine the roles and responsibilities of a typical agile project management team and discuss how they interact."
+  },
+  {
+    "year": 1,
+    "module": "Databases",
+    "type": "Business Context",
+    "lo_code": "LO1.3.1.2",
+    "lo_text": "Show how a business could be vulnerable to threats from systems and people."
+  },
+  {
+    "year": 1,
+    "module": "Databases",
+    "type": "Metaskills",
+    "lo_code": "LO1.3.1.3",
+    "lo_text": "Describe, with reference to different learning strategies, how life-long learning is important for a technical career and development in a corporate environment."
+  },
+  {
+    "year": 1,
+    "module": "Databases",
+    "type": "Security Content",
+    "lo_code": "LO1.3.1.4",
+    "lo_text": "Explain what is meant by the term \"insider\", examining the security implications on an organisation's network, system and data."
+  },
+  {
+    "year": 1,
+    "module": "Databases",
+    "type": "Technical Content",
+    "lo_code": "LO1.3.1.5",
+    "lo_text": "Explain the basic principles of a relational database and produce a relational database that incorporates key, entity integrity, and referential integrity constraints."
+  },
+  {
+    "year": 1,
+    "module": "Data languages",
+    "type": "Agile Skill",
+    "lo_code": "LO1.3.2.1",
+    "lo_text": "Explain and illustrate the issues of quality, cost and time concerned with project implementation, including contractual obligations and resource constraints."
+  },
+  {
+    "year": 1,
+    "module": "Data languages",
+    "type": "Business Context",
+    "lo_code": "LO1.3.2.2",
+    "lo_text": "Describe the importance of time management and be able to demonstrate competence in its application."
+  },
+  {
+    "year": 1,
+    "module": "Data languages",
+    "type": "Metaskills",
+    "lo_code": "LO1.3.2.3",
+    "lo_text": "Show how teams work effectively to produce technology solutions, working with team members to identify and solve problems and disagreements, sharing feedback with others on the achievement of team objectives and making suggestions and encouragement for improving team-working."
+  },
+  {
+    "year": 1,
+    "module": "Data languages",
+    "type": "Security Content",
+    "lo_code": "LO1.3.2.4",
+    "lo_text": "Analyse the processes and controls that need to be implemented to maintain the required level of security of a component, product, or system through its lifecycle and at end of life."
+  },
+  {
+    "year": 1,
+    "module": "Data languages",
+    "type": "Technical Content",
+    "lo_code": "LO1.3.2.5",
+    "lo_text": "Write stored procedures that deal with parameters and have some control flow to provide given functionality."
+  },
+  {
+    "year": 2,
+    "module": "Multiplatform development",
+    "type": "Agile Skill",
+    "lo_code": "LO2.4.1.1",
+    "lo_text": "Explain and compare project management environments, such as 'waterfall' methods, and be able to apply the underpinning philosophy and principles of Agile in a project situation even in a non-agile environment."
+  },
+  {
+    "year": 2,
+    "module": "Multiplatform development",
+    "type": "Business Context",
+    "lo_code": "LO2.4.1.2",
+    "lo_text": "Assess, in a team context, basic business behaviour, ethics and courtesies, demonstrating timeliness and focus when faced with distractions and the ability to complete tasks to a deadline with high quality."
+  },
+  {
+    "year": 2,
+    "module": "Multiplatform development",
+    "type": "Metaskills",
+    "lo_code": "LO2.4.1.3",
+    "lo_text": "Make concise, engaging and well-structured verbal presentations and explanations of varying lengths, with and without the use of media, always taking into account the audience viewpoint."
+  },
+  {
+    "year": 2,
+    "module": "Multiplatform development",
+    "type": "Security Content",
+    "lo_code": "LO2.4.1.4",
+    "lo_text": "Correctly apply the organisation's security architecture to any particular systems or solutions development activities, and rewrite a simple program to remove common vulnerabilities, such as buffer overflows, integer overflows, and race conditions."
+  },
+  {
+    "year": 2,
+    "module": "Multiplatform development",
+    "type": "Technical Content",
+    "lo_code": "LO2.4.1.5",
+    "lo_text": "Create appropriate implementations for a selection of different contexts for HCI (mobile devices, consumer devices, business applications, web, business applications, collaboration systems, games, etc.) and be able to produce a user-centred design that explicitly recognises the user and is DDA compliant (Disability Discrimination Act)."
+  },
+  {
+    "year": 2,
+    "module": "Software services",
+    "type": "Agile Skill",
+    "lo_code": "LO2.4.2.1",
+    "lo_text": "Explain agile project delivery and show how it applies to the roll out of a software project, ensuring an accurate and timely deployment in a customer friendly way, consistent with the customer needs."
+  },
+  {
+    "year": 2,
+    "module": "Software services",
+    "type": "Business Context",
+    "lo_code": "LO2.4.2.2",
+    "lo_text": "Compare, from a client-side perspective, threat, risk and vulnerability, and analyse typical threats, attacks and exploits."
+  },
+  {
+    "year": 2,
+    "module": "Software services",
+    "type": "Metaskills",
+    "lo_code": "LO2.4.2.3",
+    "lo_text": "Be creative, self-motivated, self-aware and able to reflect on successes and failures in ways that strengthen positive attitude and develop self-reliance through an understanding of their own personal preferences, styles, strengths and weaknesses."
+  },
+  {
+    "year": 2,
+    "module": "Software services",
+    "type": "Security Content",
+    "lo_code": "LO2.4.2.4",
+    "lo_text": "Appraise and manage risk for threats and vulnerabilities to information systems on an ongoing basis."
+  },
+  {
+    "year": 2,
+    "module": "Software services",
+    "type": "Technical Content",
+    "lo_code": "LO2.4.2.5",
+    "lo_text": "Explain and apply concepts such as loose coupling, separation of concerns, gang of four, multi-tiered architectures."
+  },
+  {
+    "year": 2,
+    "module": "Software architecture",
+    "type": "Agile Skill",
+    "lo_code": "LO2.5.1.1",
+    "lo_text": "Analyse a range of digital development activities and estimate the costs and effort for allocating and managing appropriate phased contingency."
+  },
+  {
+    "year": 2,
+    "module": "Software architecture",
+    "type": "Business Context",
+    "lo_code": "LO2.5.1.2",
+    "lo_text": "Compare, from a service providers perspective, threat, risk and vulnerability, and analyse typical threats, attacks and exploits."
+  },
+  {
+    "year": 2,
+    "module": "Software architecture",
+    "type": "Metaskills",
+    "lo_code": "LO2.5.1.3",
+    "lo_text": "Apply analytical and critical thinking skills to Technology Solutions development and to systematically analyse and apply structured problem-solving techniques to them."
+  },
+  {
+    "year": 2,
+    "module": "Software architecture",
+    "type": "Security Content",
+    "lo_code": "LO2.5.1.4",
+    "lo_text": "Describe the types of testing that are commonly applied to identify vulnerabilities in software and show how to make software more resilient to threats."
+  },
+  {
+    "year": 2,
+    "module": "Software architecture",
+    "type": "Technical Content",
+    "lo_code": "LO2.5.1.5",
+    "lo_text": "Examine the fundamental components of technology solutions in a range of typical modern business environments, explain their interactions for any applicable target system (e.g. games console, smart-phone, embedded system) and compare the benefits and the differences of these environments."
+  },
+  {
+    "year": 2,
+    "module": "Software Quality Assurance",
+    "type": "Agile Skill",
+    "lo_code": "LO2.5.2.1",
+    "lo_text": "Analyse the importance for the need to identify and manage project deliverables, identifying benefits for development and customer."
+  },
+  {
+    "year": 2,
+    "module": "Software Quality Assurance",
+    "type": "Business Context",
+    "lo_code": "LO2.5.2.2",
+    "lo_text": "Compare and contrast different industry standard software development processes, including distributed work (e.g. onshore, near shore and offshore), and identify the key enablers to make each model successful."
+  },
+  {
+    "year": 2,
+    "module": "Software Quality Assurance",
+    "type": "Metaskills",
+    "lo_code": "LO2.5.2.3",
+    "lo_text": "Examine the use of performance evaluation tools in a business context, and justify how his/her own work is providing value to the team."
+  },
+  {
+    "year": 2,
+    "module": "Software Quality Assurance",
+    "type": "Security Content",
+    "lo_code": "LO2.5.2.4",
+    "lo_text": "Implement robust, scalable and future-proof software security solutions that meet specific and generic requirements, and internal/external security standards and best practice."
+  },
+  {
+    "year": 2,
+    "module": "Software Quality Assurance",
+    "type": "Technical Content",
+    "lo_code": "LO2.5.2.5",
+    "lo_text": "Compare and contrast the different types and levels of verification (analysis, demonstration, test, formal proof, inspection etc.) and testing (unit, integration, systems, and acceptance) including the role and value of test driven development techniques."
+  },
+  {
+    "year": 2,
+    "module": "Data transformation",
+    "type": "Agile Skill",
+    "lo_code": "LO2.6.1.1",
+    "lo_text": "Apply industry standard process, methods, techniques and tools to execute projects."
+  },
+  {
+    "year": 2,
+    "module": "Data transformation",
+    "type": "Business Context",
+    "lo_code": "LO2.6.1.2",
+    "lo_text": "Differentiate between features and benefits, giving appropriate examples, and show how to use these effectively in a marketing campaign"
+  },
+  {
+    "year": 2,
+    "module": "Data transformation",
+    "type": "Metaskills",
+    "lo_code": "LO2.6.1.3",
+    "lo_text": "Explain what is active listening. Demonstrate how active listening can be applied in appreciating others view and contributions."
+  },
+  {
+    "year": 2,
+    "module": "Data transformation",
+    "type": "Security Content",
+    "lo_code": "LO2.6.1.4",
+    "lo_text": "Examine the technical aspects of information security including client data protection and the data protection act."
+  },
+  {
+    "year": 2,
+    "module": "Data transformation",
+    "type": "Technical Content",
+    "lo_code": "LO2.6.1.5",
+    "lo_text": "Explain the role of data mining and the algorithms developed to address different data mining goals, and relate the application of these algorithms to real-world problems including big data."
+  },
+  {
+    "year": 2,
+    "module": "Data as a service",
+    "type": "Agile Skill",
+    "lo_code": "LO2.6.2.1",
+    "lo_text": "Evaluate the quality assurance processes that can be automated during software development to achieve and maintain project requirements."
+  },
+  {
+    "year": 2,
+    "module": "Data as a service",
+    "type": "Business Context",
+    "lo_code": "LO2.6.2.2",
+    "lo_text": "Examine human aspects of information security including client data protection, GDPR and the data protection act."
+  },
+  {
+    "year": 2,
+    "module": "Data as a service",
+    "type": "Metaskills",
+    "lo_code": "LO2.6.2.3",
+    "lo_text": "With guidance, conduct research, using common industry literature and other media, into IT and business-related topics."
+  },
+  {
+    "year": 2,
+    "module": "Data as a service",
+    "type": "Security Content",
+    "lo_code": "LO2.6.2.4",
+    "lo_text": "Analyse the common pitfalls and mitigations of common security approaches."
+  },
+  {
+    "year": 2,
+    "module": "Data as a service",
+    "type": "Technical Content",
+    "lo_code": "LO2.6.2.5",
+    "lo_text": "Implement a data driven website, explaining the relevant technologies involved in each tier of the architecture and the accompanying performance trade-offs."
+  },
+  {
+    "year": 3,
+    "module": "Industrial software design",
+    "type": "Agile Skill",
+    "lo_code": "LO3.7.1.1",
+    "lo_text": "Follow a systematic methodology for initiating, planning, executing, controlling, and closing a technology solutions project."
+  },
+  {
+    "year": 3,
+    "module": "Industrial software design",
+    "type": "Business Context",
+    "lo_code": "LO3.7.1.2",
+    "lo_text": "Evaluate the strategic importance of business processes and demonstrate an ability to document and understand them."
+  },
+  {
+    "year": 3,
+    "module": "Industrial software design",
+    "type": "Metaskills",
+    "lo_code": "LO3.7.1.3",
+    "lo_text": "Effectively prepare and deliver presentations using relevant presentation media products, present ideas clearly and convincingly."
+  },
+  {
+    "year": 3,
+    "module": "Industrial software design",
+    "type": "Security Content",
+    "lo_code": "LO3.7.1.4",
+    "lo_text": "Examine and apply standards for software quality planning and assurance (e.g. ISO/IEC 9126 - international standard for the evaluation of software quality)."
+  },
+  {
+    "year": 3,
+    "module": "Industrial software design",
+    "type": "Technical Content",
+    "lo_code": "LO3.7.1.5",
+    "lo_text": "Compare and contrast software design and development methodologies (e.g., structured or object-oriented), and be able to apply appropriate industry standard design notation such as UML and agile user story management."
+  },
+  {
+    "year": 3,
+    "module": "User experience design",
+    "type": "Agile Skill",
+    "lo_code": "LO3.7.2.1",
+    "lo_text": "Justify project scope, timescale, aims and objectives in the construction of a project specification."
+  },
+  {
+    "year": 3,
+    "module": "User experience design",
+    "type": "Business Context",
+    "lo_code": "LO3.7.2.2",
+    "lo_text": "Investigate a company's basic business functions, organisational structure and the roles of its senior leadership team."
+  },
+  {
+    "year": 3,
+    "module": "User experience design",
+    "type": "Metaskills",
+    "lo_code": "LO3.7.2.3",
+    "lo_text": "Conduct effective research, using literature and other media, into IT and business-related topics."
+  },
+  {
+    "year": 3,
+    "module": "User experience design",
+    "type": "Security Content",
+    "lo_code": "LO3.7.2.4",
+    "lo_text": "Investigate the key steps in managing security incidents and how to apply them."
+  },
+  {
+    "year": 3,
+    "module": "User experience design",
+    "type": "Technical Content",
+    "lo_code": "LO3.7.2.5",
+    "lo_text": "Assess a problem domain to establish a basis for the creation of a software design and show what the requirements of the customer are through solution design modelling."
+  },
+  {
+    "year": 3,
+    "module": "Releasing a minimum viable product",
+    "type": "Agile Skill",
+    "lo_code": "LO3.7.3.1",
+    "lo_text": "Evaluate and apply software design and development methodology (e.g., structured or object-oriented), and be able to create appropriate industry standard design notation such as UML and agile user story management."
+  },
+  {
+    "year": 3,
+    "module": "Releasing a minimum viable product",
+    "type": "Business Context",
+    "lo_code": "LO3.7.3.2",
+    "lo_text": "Manage basic considerations: prioritisation, task versus responsibility management."
+  },
+  {
+    "year": 3,
+    "module": "Releasing a minimum viable product",
+    "type": "Metaskills",
+    "lo_code": "LO3.7.3.3",
+    "lo_text": "Plan and implement work goals, objectives, priorities and responsibilities with others."
+  },
+  {
+    "year": 3,
+    "module": "Releasing a minimum viable product",
+    "type": "Security Content",
+    "lo_code": "LO3.7.3.4",
+    "lo_text": "Apply recognised principles to the building of high-quality software components, understanding the difference between safety and quality, and show how mechanisms that improve quality may be used to partially underpin a safety argument."
+  },
+  {
+    "year": 3,
+    "module": "Releasing a minimum viable product",
+    "type": "Technical Content",
+    "lo_code": "LO3.7.3.5",
+    "lo_text": "Confidently design and apply algorithms for manipulating data in programming solutions for a variety of problems."
+  },
+  {
+    "year": 3,
+    "module": "Software release management",
+    "type": "Agile Skill",
+    "lo_code": "LO3.8.1.1",
+    "lo_text": "Investigate the principles of quality assurance for project deliverables, including contractual obligations."
+  },
+  {
+    "year": 3,
+    "module": "Software release management",
+    "type": "Business Context",
+    "lo_code": "LO3.8.1.2",
+    "lo_text": "Explain what is meant by managing up and across the organisation, assessing people considerations."
+  },
+  {
+    "year": 3,
+    "module": "Software release management",
+    "type": "Metaskills",
+    "lo_code": "LO3.8.1.3",
+    "lo_text": "Be able to appraise, present a case for, and gain commitment to, a moderately complex technology-orientated solution, demonstrating understanding of business need, using open questions and summarising skills and basic negotiating skills."
+  },
+  {
+    "year": 3,
+    "module": "Software release management",
+    "type": "Security Content",
+    "lo_code": "LO3.8.1.4",
+    "lo_text": "Evaluate software processes for governing software development both technically, and in terms of cost control, quality, adherence of technical strategy and IPR identification."
+  },
+  {
+    "year": 3,
+    "module": "Software release management",
+    "type": "Technical Content",
+    "lo_code": "LO3.8.1.5",
+    "lo_text": "Determine configuration management processes for use throughout the product development life cycle in storing software deliverables and controlling and tracking changes to software both at component and release level, using configuration management tools effectively, and apply change management processes properly."
+  },
+  {
+    "year": 3,
+    "module": "Insight from data",
+    "type": "Agile Skill",
+    "lo_code": "LO3.9.1.1",
+    "lo_text": "Determine the nature of risk and describe how to respond to risks."
+  },
+  {
+    "year": 3,
+    "module": "Insight from data",
+    "type": "Business Context",
+    "lo_code": "LO3.9.1.2",
+    "lo_text": "Evaluate strategic importance of data analytics for business decision making."
+  },
+  {
+    "year": 3,
+    "module": "Insight from data",
+    "type": "Metaskills",
+    "lo_code": "LO3.9.1.3",
+    "lo_text": "Demonstrate competence in gathering and evaluating information from people using a variety of techniques including interviewing."
+  },
+  {
+    "year": 3,
+    "module": "Insight from data",
+    "type": "Security Content",
+    "lo_code": "LO3.9.1.4",
+    "lo_text": "Maintain and manage software and hardware patching, particularly implementing vulnerability patching where vulnerabilities are identified."
+  },
+  {
+    "year": 3,
+    "module": "Insight from data",
+    "type": "Technical Content",
+    "lo_code": "LO3.9.1.5",
+    "lo_text": "Design, develop and evaluate a non-trivial big data analysis system."
+  },
+  {
+    "year": 3,
+    "module": "Data led decision making",
+    "type": "Agile Skill",
+    "lo_code": "LO3.9.2.1",
+    "lo_text": "Formulate a plan to communicate risks through risk reports, registers or logs."
+  },
+  {
+    "year": 3,
+    "module": "Data led decision making",
+    "type": "Business Context",
+    "lo_code": "LO3.9.2.2",
+    "lo_text": "Describe employment relations issues and evaluate the application of policies and procedures for managing these relationships, and the application of good practice relating to equality and diversity issues in the workplace."
+  },
+  {
+    "year": 3,
+    "module": "Data led decision making",
+    "type": "Metaskills",
+    "lo_code": "LO3.9.2.3",
+    "lo_text": "Evaluate the motivations of internal and external stakeholders with respect to competing interests and objectives."
+  },
+  {
+    "year": 3,
+    "module": "Data led decision making",
+    "type": "Security Content",
+    "lo_code": "LO3.9.2.4",
+    "lo_text": "Determine residual risk and what the impacts are for an organisation."
+  },
+  {
+    "year": 3,
+    "module": "Data led decision making",
+    "type": "Technical Content",
+    "lo_code": "LO3.9.2.5",
+    "lo_text": "Report on the requirements development process: elicitation, specification, analysis and management and the use of tools for managing requirements in the context of data."
+  },
+  {
+    "year": 4,
+    "module": "MVP - Software challenge",
+    "type": "Agile Skill",
+    "lo_code": "LO4.10.1.1",
+    "lo_text": "Create a requirements document that agrees, with respect to all stakeholders involved, the purpose of the project."
+  },
+  {
+    "year": 4,
+    "module": "MVP - Software challenge",
+    "type": "Business Context",
+    "lo_code": "LO4.10.1.2",
+    "lo_text": "Create a business plan for a product, including a cashflow forecast."
+  },
+  {
+    "year": 4,
+    "module": "MVP - Software challenge",
+    "type": "Metaskills",
+    "lo_code": "LO4.10.1.3",
+    "lo_text": "Be fluent in written communications with the ability to articulate complex issues, selecting an appropriate structure and with appropriate tone, style and language."
+  },
+  {
+    "year": 4,
+    "module": "MVP - Software challenge",
+    "type": "Security Content",
+    "lo_code": "LO4.10.1.4",
+    "lo_text": "Design and develop training materials and plan end user training following software deployment, include consideration of human and technical security requirements."
+  },
+  {
+    "year": 4,
+    "module": "MVP - Software challenge",
+    "type": "Technical Content",
+    "lo_code": "LO4.10.1.5",
+    "lo_text": "Create and specify a software design for a medium-size software product using a software requirement specification, an accepted program design methodology (e.g., structured or object-oriented), and appropriate design notation."
+  },
+  {
+    "year": 4,
+    "module": "Lifecycle - Software challenge",
+    "type": "Agile Skill",
+    "lo_code": "LO4.10.2.1",
+    "lo_text": "Formulate a project scope, timescale, aims and objectives and be able to construct a project specification and plan for a multi-threaded project, including resources and budget."
+  },
+  {
+    "year": 4,
+    "module": "Lifecycle - Software challenge",
+    "type": "Business Context",
+    "lo_code": "LO4.10.2.2",
+    "lo_text": "Create a market research report for an industry."
+  },
+  {
+    "year": 4,
+    "module": "Lifecycle - Software challenge",
+    "type": "Metaskills",
+    "lo_code": "LO4.10.2.3",
+    "lo_text": "Evaluate standard selling, questioning, negotiating and closing techniques in a range of interactions and engagements, for both internal and external stakeholders."
+  },
+  {
+    "year": 4,
+    "module": "Lifecycle - Software challenge",
+    "type": "Security Content",
+    "lo_code": "LO4.10.2.4",
+    "lo_text": "Review common pitfalls and mitigations in common quality assurance techniques."
+  },
+  {
+    "year": 4,
+    "module": "Lifecycle - Software challenge",
+    "type": "Technical Content",
+    "lo_code": "LO4.10.2.5",
+    "lo_text": "Design, evaluate and implement a test plan for a medium-size code segment or larger."
+  },
+  {
+    "year": 4,
+    "module": "Release - Software challenge",
+    "type": "Agile Skill",
+    "lo_code": "LO4.10.3.1",
+    "lo_text": "Manage a project including identifying, evaluating and resolving deviations and the management of the problems and escalation processes."
+  },
+  {
+    "year": 4,
+    "module": "Release - Software challenge",
+    "type": "Business Context",
+    "lo_code": "LO4.10.3.2",
+    "lo_text": "Create a marketing plan for communicating the product to the relevant audience."
+  },
+  {
+    "year": 4,
+    "module": "Release - Software challenge",
+    "type": "Metaskills",
+    "lo_code": "LO4.10.3.3",
+    "lo_text": "Evaluate the preferences, motivations, strengths and limitations of other people and apply these insights to work more effectively with and to motivate others."
+  },
+  {
+    "year": 4,
+    "module": "Release - Software challenge",
+    "type": "Security Content",
+    "lo_code": "LO4.10.3.4",
+    "lo_text": "Critically evaluate the properties of good software design including the nature and the role of associated documentation, appreciating that design increasingly covers the use of existing code and 3rd party elements that may be an alternative to development of code from scratch through make/buy decisions.  Assess these properties in a security context and impact on the threat model."
+  },
+  {
+    "year": 4,
+    "module": "Release - Software challenge",
+    "type": "Technical Content",
+    "lo_code": "LO4.10.3.5",
+    "lo_text": "Compose a software configuration and release pipeline that complies with industry best practices."
+  },
+  {
+    "year": 4,
+    "module": "Long tail of the software lifecycle",
+    "type": "Agile Skill",
+    "lo_code": "LO4.11.1.1",
+    "lo_text": "Explain the industry standards in software project management including PRINCE2, ISO 10006, ISO 12207 along with the SEI's CMMI methods, and integrate relevant standards into a project."
+  },
+  {
+    "year": 4,
+    "module": "Long tail of the software lifecycle",
+    "type": "Business Context",
+    "lo_code": "LO4.11.1.2",
+    "lo_text": "Use the principles of business transformation to create a recommendations report by being able to decompose and abstract a non-obvious business problem, structure it, collect relevant information, consider options and make recommendations."
+  },
+  {
+    "year": 4,
+    "module": "Long tail of the software lifecycle",
+    "type": "Metaskills",
+    "lo_code": "LO4.11.1.3",
+    "lo_text": "Evaluate how personal profiling tools predict team performance in a non-trivial project."
+  },
+  {
+    "year": 4,
+    "module": "Long tail of the software lifecycle",
+    "type": "Security Content",
+    "lo_code": "LO4.11.1.4",
+    "lo_text": "Research and evaluate the current threat landscape, trends and their significance."
+  },
+  {
+    "year": 4,
+    "module": "Long tail of the software lifecycle",
+    "type": "Technical Content",
+    "lo_code": "LO4.11.1.5",
+    "lo_text": "Profile the performance of existing code and be able to refactor where appropriate, considering improvements to efficiency, scalability, maintainability and extensibility."
+  },
+  {
+    "year": 4,
+    "module": "Enterprise transformation",
+    "type": "Agile Skill",
+    "lo_code": "LO4.11.2.1",
+    "lo_text": "Plan and create, including contingencies, a risk register (RAID log) to communicate risks and issues."
+  },
+  {
+    "year": 4,
+    "module": "Enterprise transformation",
+    "type": "Business Context",
+    "lo_code": "LO4.11.2.2",
+    "lo_text": "Evaluate an employer's business objectives and strategy and its position in the market and how an employer adds value to its clients through its services and/or products it provides."
+  },
+  {
+    "year": 4,
+    "module": "Enterprise transformation",
+    "type": "Metaskills",
+    "lo_code": "LO4.11.2.3",
+    "lo_text": "Design and apply performance evaluation tools (including 360-degree feedback) for evaluating team performance."
+  },
+  {
+    "year": 4,
+    "module": "Enterprise transformation",
+    "type": "Security Content",
+    "lo_code": "LO4.11.2.4",
+    "lo_text": "Investigate the components and steps of a Business Continuity Plan/Disaster Recovery Plan (BCP/DRP) (e.g. ISO/ IEC 27031) and explain how to support BCP/ DRP measurement of recovery - Recovery Time Objective (RTO)/Recovery Point Objective (RPO)/ Maximum Tolerable Downtime (MTD)."
+  },
+  {
+    "year": 4,
+    "module": "Enterprise transformation",
+    "type": "Technical Content",
+    "lo_code": "LO4.11.2.5",
+    "lo_text": "Assess existing legacy software, and review the source code if available, appreciating that part or all of the system may be implemented using an obsolete programming language."
+  },
+  {
+    "year": 4,
+    "module": "Applied research",
+    "type": "Agile Skill",
+    "lo_code": "LO4.12.1.1",
+    "lo_text": "Create a quality assurance plan and evaluate project deliverables against quality requirements."
+  },
+  {
+    "year": 4,
+    "module": "Applied research",
+    "type": "Business Context",
+    "lo_code": "LO4.12.1.2",
+    "lo_text": "Critically evaluate the impact of advanced algorithms in developing new capabilities for businesses, assess the impact on society, and identify future trends."
+  },
+  {
+    "year": 4,
+    "module": "Applied research",
+    "type": "Metaskills",
+    "lo_code": "LO4.12.1.3",
+    "lo_text": "Manage and assess different, competing interests within and outside the organisation with excellent negotiation skills."
+  },
+  {
+    "year": 4,
+    "module": "Applied research",
+    "type": "Security Content",
+    "lo_code": "LO4.12.1.4",
+    "lo_text": "Establish the impact on security of advanced algorithms for use in applications, and evaluate important social and ethical considerations in how these types of algorithms are being deployed by business and government."
+  },
+  {
+    "year": 4,
+    "module": "Applied research",
+    "type": "Technical Content",
+    "lo_code": "LO4.12.1.5",
+    "lo_text": "Develop detailed knowledge and understanding in one or more specialisms, some of which is informed by, or at the forefront of, the subject."
+  }
+]
