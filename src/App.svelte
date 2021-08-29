@@ -147,10 +147,10 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+		padding: 2vh 2vw;
 	}
 	.content {
 		max-width: 1920px;
 		width: 100%;
-		padding: 1vh 1vw;
 	}
 </style>
