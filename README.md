@@ -1,51 +1,14 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f73ff5b5-ef0f-430d-b342-d4fd391cdf95/deploy-status)](https://app.netlify.com/sites/sharp-perlman-d81bce/deploys)
+
 ---
 
-# Svelte PWA
+# Applied Software Development Course Outcomes - Svelte PWA
 
-This is a Progressive Web App (PWA) template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/tretapey/svelte-pwa.
+This is a Progressive Web App (PWA) built with [Svelte](https://svelte.dev),  created using a project template available at: https://github.com/tretapey/svelte-pwa. 
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+The project is quite simple in that it displays a list of learning outcomes that can then be filtered by year, type and module. The next steps include adding a way to quickly add notes/ideas under each outcome to replace my current spreadsheet approach.
 
-```bash
-npx degit tretapey/svelte-pwa my-svelte-pwa
-cd my-svelte-pwa
-```
+The primary purpose of creating this project was to try and understand the hype surrounding the Svelte framework and take a look at [Netlify](https://www.netlify.com/) for web hosting. 
 
-_Note that you will need to have [Node.js](https://nodejs.org) installed._
+The site can be accessed by clicking [here](https://outcomes.newlands.dev).
 
-## Get started
-
-Install the dependencies...
-
-```bash
-cd my-svelte-pwa
-npm install
-```
-
-...then start [Rollup](https://rollupjs.org):
-
-```bash
-npm run dev
-```
-
-Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
-
-By default, the server will only respond to requests from localhost. To allow connections from other computers, edit the `sirv` commands in package.json to include the option `--host 0.0.0.0`.
-
-## PWA Configuration
-
-- The `service-worker.js` and `manifest.json` files are in the `public` folder.
-- You should update the icons in `/public/images/icons`
-- For an offline experience edit the `/public/offline.html` file.
-- This PWA is installable. For more information on how to use check [this repo](https://github.com/pwa-builder/pwa-install).
-  Note: If you don't want to make the app installable you can remove the script from the `index.html` file in the `public` folder.
-
-For more info, this template was made following this [tutorial](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
-
-## Building and running in production mode
-
-To create an optimised version of the app:
-
-```bash
-npm run build
-```
