@@ -1,0 +1,114 @@
+[
+  {
+    "type": "knowledge",
+    "verbs": [
+      "list",
+      "name",
+      "recall",
+      "record",
+      "relate",
+      "repeat",
+      "state",
+      "tell",
+      "underline"
+    ]
+  },
+  {
+    "type": "comprehension",
+    "verbs": [
+      "compare",
+      "describe",
+      "discuss",
+      "explain",
+      "express",
+      "identify",
+      "recognise",
+      "restate",
+      "tell",
+      "translate"
+    ]
+  },
+  {
+    "type": "application",
+    "verbs": [
+      "apply",
+      "complete",
+      "construct",
+      "demonstrate",
+      "dramatize",
+      "employ",
+      "illustrate",
+      "interpret",
+      "operate",
+      "practice",
+      "schedule",
+      "sketch",
+      "use"
+    ]
+  },
+  {
+    "type": "analysis",
+    "verbs": [
+      "analyze",
+      "appraise",
+      "categorize",
+      "compare",
+      "contrast",
+      "debate",
+      "diagram",
+      "differentiate",
+      "distinguish",
+      "examine",
+      "experiment",
+      "inspect",
+      "inventory",
+      "question",
+      "test"
+    ]
+  },
+  {
+    "type": "synthesis",
+    "verbs": [
+      "arrange",
+      "assemble",
+      "collect",
+      "combine",
+      "comply",
+      "compose",
+      "construct",
+      "create",
+      "design",
+      "devise",
+      "formulate",
+      "manage",
+      "organize",
+      "plan",
+      "prepare",
+      "propose",
+      "setup"
+    ]
+  },
+  {
+    "type": "evaluation",
+    "verbs": [
+      "appraise",
+      "argue",
+      "assess",
+      "choose",
+      "compare",
+      "conclude",
+      "estimate",
+      "evaluate",
+      "interpret",
+      "judge",
+      "justify",
+      "measure",
+      "rate",
+      "revise",
+      "score",
+      "select",
+      "support",
+      "value"
+    ]
+  }
+]

@@ -1,6 +1,7 @@
 <script>
 
 	export let all_outcomes;
+	export let all_blooms_verbs;
 
 	let outcomes = all_outcomes;
 	let yearFilter = "All";
@@ -42,6 +43,34 @@
 	];
 	let getTypeColour = (type) => 'background-color: ' + typeColors.get(type);
 
+	let allMeasurableVerbs = [];
+	let bloomsMeasurableVerbs = [];
+	let false_positive_verbs = [
+		'value',
+		'complete',
+		'rate',
+		'schedule',
+		'test',
+		'use'
+	]
+
+	all_blooms_verbs.forEach(type => bloomsMeasurableVerbs.push(...type.verbs));
+
+	for (let verb of bloomsMeasurableVerbs) {
+		if (!false_positive_verbs.includes(verb)) {
+			allMeasurableVerbs.push(verb);
+			allMeasurableVerbs.push(verb.charAt(0).toUpperCase() + verb.slice(1));
+		}
+	}
+
+	let getHighlightedText = (text) => {
+		let highlightedText = text;
+		allMeasurableVerbs.forEach(verb => {
+			highlightedText = highlightedText.replaceAll(verb + ' ', '<span style="font-weight: bold; background-color: lightyellow">' + verb + ' </span>');
+		});
+		return highlightedText;
+	}
+
 	let modules = [];
 	let all_modules = [];
 	let uniqueModules = [];
@@ -78,6 +107,10 @@
 			<button class="{moduleFilter === 'All' ? 'filterSelected' : ''}" on:click={() => filterOutcomesByModule("All")}>All modules</button>
 			{/if}
 		</div>
+		<div class="message">
+			<p>Bloom's measurable verbs have been highlighted for clarity, to ensure the outcomes are answered appropriately. <p>
+			<p>This functionality makes use of the verbs described in "Bloom’s Taxonomy of Measurable Verbs" avaliable as a pdf <a href="https://www.utica.edu/academic/Assessment/new/Blooms%20Taxonomy%20-%20Best.pdf">here.</a>  </p>
+		</div>
 		<div class="outcomes">
 			{#each outcomes as outcome}
 				<div class="outcome">
@@ -88,7 +121,7 @@
 						<span class="type" style="{getTypeColour(outcome.type)}">{outcome.type.split(" ")[0]}</span>
 					</div>
 					<h2 class="module" >{outcome.module}</h2>
-					<span class="lo_text">{outcome.lo_text}</span>
+					<span class="lo_text">{@html getHighlightedText(outcome.lo_text)}</span>
 				</div>
 			{/each}
 		</div>
@@ -152,5 +185,12 @@
 	.content {
 		max-width: 1920px;
 		width: 100%;
+	}
+	
+	.message {
+		border: 1px solid #ccc;
+		padding: 0.5rem 1.2rem;
+		border-radius: 2em;
+		width: fit-content;
 	}
 </style>
