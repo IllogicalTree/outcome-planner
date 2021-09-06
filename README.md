@@ -4,6 +4,8 @@
 
 # Applied Software Development Course Outcomes - Svelte PWA
 
+A live version of this project can be accessed [here](https://outcomes.newlands.dev).
+
 This is a Progressive Web App (PWA) built with [Svelte](https://svelte.dev),  created using a project template available at: https://github.com/tretapey/svelte-pwa. 
 
 The project is quite simple in that it displays a list of learning outcomes that can then be filtered by year, type and module. The next steps include adding a way to quickly add notes/ideas under each outcome to replace my current spreadsheet approach.
