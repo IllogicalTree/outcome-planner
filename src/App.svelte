@@ -66,7 +66,7 @@
 	let getHighlightedText = (text) => {
 		let highlightedText = text;
 		allMeasurableVerbs.forEach(verb => {
-			highlightedText = highlightedText.replaceAll(verb + ' ', '<span style="font-weight: bold; background-color: lightyellow">' + verb + ' </span>');
+			highlightedText = highlightedText.replaceAll(verb + ' ', '<span style="color: black; font-weight: bold; background-color: lightyellow">' + verb + '</span> ');
 		});
 		return highlightedText;
 	}
@@ -82,9 +82,22 @@
 		}
 	})
 
+	let darkMode = false;
+	const toggleDarkMode = () => {
+		darkMode = !darkMode;
+		window.document.body.classList.toggle('dark-mode')
+	}
+
 </script>
 
 <main>
+	<button class="toggleBtn" on:click={toggleDarkMode}>
+		{#if darkMode }
+			Light mode
+		{:else}
+			Dark mode
+		{/if}
+	</button>
 	<div class="content">
 		<div class="filters">
 			<button class="{yearFilter === 1 ? 'filterSelected' : ''}" on:click={() => filterOutcomesByYear(1)}>Year 1</button>
@@ -108,7 +121,7 @@
 			{/if}
 		</div>
 		<div class="message">
-			<p>Bloom's measurable verbs have been highlighted for clarity, to ensure the outcomes are answered appropriately. <p>
+			<p>Blooom's measurable verbs have been highlighted for clarity, to ensure the outcomes are answered appropriately. <p>
 			<p>This functionality makes use of the verbs described in "Bloom’s Taxonomy of Measurable Verbs" avaliable as a pdf <a href="https://www.utica.edu/academic/Assessment/new/Blooms%20Taxonomy%20-%20Best.pdf">here.</a>  </p>
 		</div>
 		<div class="outcomes">
@@ -129,6 +142,24 @@
 </main>
 
 <style>
+
+	:global(body) {
+		background-color: white;;
+		transition: background-color 0.3s
+	}
+	:global(body.dark-mode) {
+		background-color: rgb(13, 19, 24);
+		color: white;
+	}
+	:global(body.dark-mode) a {
+		color: lightblue;	
+	}
+
+	.toggleBtn {
+		position: absolute;
+		top: 2vh;
+		right: 2vw;
+	}
 	.outcomes { 
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
