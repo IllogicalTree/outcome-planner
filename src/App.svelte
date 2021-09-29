@@ -91,6 +91,7 @@
 </script>
 
 <main>
+	<!--
 	<button class="toggleBtn" on:click={toggleDarkMode}>
 		{#if darkMode }
 			Light mode
@@ -98,6 +99,7 @@
 			Dark mode
 		{/if}
 	</button>
+	-->
 	<div class="content">
 		<div class="filters">
 			<button class="{yearFilter === 1 ? 'filterSelected' : ''}" on:click={() => filterOutcomesByYear(1)}>Year 1</button>
