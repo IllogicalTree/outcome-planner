@@ -123,7 +123,7 @@
 			{/if}
 		</div>
 		<div class="message">
-			<p>Blooom's measurable verbs have been highlighted for clarity, to ensure the outcomes are answered appropriately. <p>
+			<p>Bloom's measurable verbs have been highlighted for clarity, to ensure the outcomes are answered appropriately. <p>
 			<p>This functionality makes use of the verbs described in "Bloom’s Taxonomy of Measurable Verbs" avaliable as a pdf <a href="https://www.utica.edu/academic/Assessment/new/Blooms%20Taxonomy%20-%20Best.pdf">here.</a>  </p>
 		</div>
 		<div class="outcomes">
